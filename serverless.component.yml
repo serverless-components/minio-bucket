@@ -1,0 +1,8 @@
+name: minio-bucket
+version: 0.1.0
+author: pmuens
+org: pmuens
+keywords: minio, object-storage, kubernetes, serverless
+repo: https://github.com/serverless-components/minio-bucket
+license: Apache-2.0
+main: ./src
